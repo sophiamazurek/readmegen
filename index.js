@@ -18,17 +18,17 @@ const questions = [
     {
         type: 'input',
         name: 'installationinstructions',
-        message: 'What is your installation instructions?'
+        message: 'Provide step-by-step instructions on how you got your project to run?'
     },
     {
         type: 'input',
         name: 'usageinformation',
-        message: 'What are you using this for?'
+        message: 'How do you use this project?'
     },
     {
         type: 'input',
         name: 'contributionguidelines',
-        message: 'Did anyone help you?'
+        message: 'Did anyone help you build out this porject? If there were include thier GitHub profile.'
     },
     {
         type: 'input',
