@@ -1,7 +1,7 @@
 # ReadMe Generator
 
   ## Description 
-  This project is about me generating a template that will display in a README.md file on my GitHub Profile
+  In this project I built out a template with a series of questions to ask the user. After they answer the questions they will be able to see their answers nicely displayed in a template.
   
   
   ## Table of Contents (Optional)
@@ -14,20 +14,20 @@
   
   
   ## Installation
-  I got this project byt creating several files and then connecting them all together to get them to display the correct information  
+  This project starts when they run node index.js and then answer the questions.   
   
   ## Usage 
-  I use this project by running the node index.js and filling out the questions to get the answers to shw in the template
+  This project is to be used to save time when creating README
   
   Include screenshots as needed.
  
   
   ## Credits
-  I had help from my tutor but no other students assisted in this project
+  No
   
   
   ## License
-  MIT  
+  None  
   
   ---
   
@@ -36,7 +36,7 @@
   ## Badges
   
   ![badmath](https://img.shields.io/github/languages/top/nielsenjared/badmath)
-  ![Image of Badge](https://img.shields.io/badge/HTML-100%-blue)
+  ![Image of Badge](https://img.shields.io/badge/NodeJS-100%-blue)
 
     
   
@@ -45,10 +45,10 @@
   
   
   ## Contributing
-  yes
+  No
   
   ## Tests
-  NO
+  No
   
   ## Questions
   https://github.com/sophiamazurek
